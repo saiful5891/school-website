@@ -1,0 +1,46 @@
+.logo-part{
+    width: 40%;
+}
+.top-part{
+    background-color:#F1FFF0;
+
+}
+.manu-bar{
+    margin-right: 40px;
+    padding: 0 30px;
+}
+
+.main-img{
+    width: 80%;
+    
+}
+.img-margin{padding: 50px 40px;}
+h6{color: red;}
+
+.scend-part{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.card{
+    border: none;
+    background-color:#F1FFF0;
+    
+}
+.box{
+    box-shadow: 10px 10px 10px gray;
+    text-align: center;
+}
+.box :active{
+    box-shadow: 10px 10px 10px gray;
+    text-align: center;
+}
+.medel-img{
+    width: 40%;
+}
+.man{width: 50%;
+    margin-left: 70px;
+}
+.footer-center p{
+    text-align: center;
+    margin-top: 50px;
+}
